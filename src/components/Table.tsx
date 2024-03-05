@@ -1,4 +1,4 @@
-import { useContext, useEffect } from "react";
+import { useContext } from "react";
 import CardContainer from "./CardContainer";
 import { GameContext } from "./context";
 import { Player } from "./Player";
